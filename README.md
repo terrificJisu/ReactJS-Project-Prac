@@ -80,7 +80,8 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under Coding Addict
+https://www.youtube.com/watch?v=ScDWrogElmo&t=7534s
 
 ## Acknowledgments
 
